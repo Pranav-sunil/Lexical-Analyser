@@ -1,6 +1,8 @@
 /* ###################################### LEXICAL ANALYSER ######################################
 Name : Pranav S
-Regn. No. : 23029_009
+Project Name : Lexical Analyser  
+Description : C program that can do lexical analysis on a c program file and  
+categorize the tokens based on their type.  
 */
 
 /* Main file : This file contains the main function and calls other functions to do the 
